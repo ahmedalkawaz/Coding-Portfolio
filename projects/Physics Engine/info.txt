@@ -1,1 +1,6 @@
 Press F to create particles, press R to reset particles.
+Code allows for toggling of the following:
+- Gravity
+- Elasticity of collisions
+- Mass of objects
+- Size of objects
